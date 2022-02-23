@@ -7,12 +7,12 @@ Built using content based recommender and collaborative filtering.
 
 ## THE FOLLOWING LIBRARIES WERE USED:
 
+import numpy as np # linear algebra  
+import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv) 
 from surprise import SVD  
 from surprise import Dataset  
 from surprise.model_selection import cross_validate  
-from surprise import Reader, Dataset  
-import numpy as np # linear algebra  
-import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)  
+from surprise import Reader, Dataset   
 from ast import literal_eval  
 from nltk.stem.snowball import SnowballStemmer  
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer  
