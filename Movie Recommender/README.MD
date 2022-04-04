@@ -57,5 +57,5 @@ This section brings together techniques we have implemented in the content based
 
 
 ## NOTE:
-A task given be IEEE ROUND 2 recruitments.
+
 I made this project as a beginner in Machine Learning so I am unable to predict the accuracy of the model and have many doubts regarding some of the code cells in the project. I worked to the best of my ability to understand the various algorithms and libraries used in the project.
